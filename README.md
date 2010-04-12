@@ -10,8 +10,8 @@ projects that need to use libraries that prohibit these sort of terms.
 
 # Alternatives
 
-If you want a less humorous and permissive license you might want to
-check out the
+If you want a less humorous (and less vulgar) but permissive license
+you might want to check out the
 [MIT License](http://www.opensource.org/licenses/mit-license.php), or
 the public domain terms
 [SQLite is distributed](http://www.sqlite.org/copyright.html) under.
